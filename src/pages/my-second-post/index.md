@@ -1,5 +1,5 @@
 ---
-title: Week 1 - Lambda Labsa
+title: Week 1 - Lambda Labs
 date: "November 9th 2018"
 ---
 Screen Shots
