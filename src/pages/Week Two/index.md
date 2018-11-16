@@ -1,6 +1,6 @@
 ---
 title: Week 2 - Lambda Labs
-date: "2015-05-28T22:40:32.169Z"
+date: "0011 09, 2018"
 ---
 Screen Shots
 [Insert screen shots]

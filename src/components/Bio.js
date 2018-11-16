@@ -27,10 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
+          Written by <strong>Joseph Bradley</strong>.{' '}
           <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+            You should follow Kyle Mathews, not Joseph, on Twitter
           </a>
         </p>
       </div>
