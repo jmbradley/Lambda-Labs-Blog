@@ -15,7 +15,7 @@ Casey peeled off to organize the front end so that we could seemlessly move into
 
 ![Data Map](../../src/assets/Datamap.png "Mapping our data prior to db construction")
 
-This was quite helpful as we moved into the subsequent days. Particularly as Patrick and I built our migrations. As we began to wrap this task, I started working on re-arranging our endpoints into routes and models. We did decided to do this as a group such that we could design our project for scalability. As we enter the homestretch, we will need to be working across a variety of files. If something breaks (which it will) we wanted to have thought as much about containment as we could. Thus we elected to execute a model/route architecture.
+This was quite helpful as we moved into the subsequent days. Particularly as Patrick and I built our migrations. As we began to wrap this task, I started working on re-arranging our endpoints into routes and models. We did decided to do this as a group such that we could design our project for scalability. As we enter the homestretch, we will need to be working across a variety of files. If something breaks (which it will) we wanted to have thought as much about containment as we could. Thus we elected to execute a model/route architecture. Unfortunately, while I was able to complete the build of the models and routes, I was not able to get them live. After a discussing the best approach to implementation, we decided on rolling our end points over piece meal. That will happen over the next few weeks.
 
 
 
