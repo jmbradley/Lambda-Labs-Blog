@@ -20,11 +20,11 @@ This was quite helpful as we moved into the subsequent days. Particularly as Pat
 
 
 
-Tasks Pulled
-Front End
+## Tasks Pulled
+### Front End
  - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/15 "Front End PR One")
 
 
-Back End
+### Back End
 
 - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/9 "Back End PR One)
