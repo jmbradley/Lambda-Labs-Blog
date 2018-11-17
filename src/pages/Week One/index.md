@@ -15,7 +15,7 @@ Casey peeled off to organize the front end so that we could seemlessly move into
 
 ![Data Map](src/assets/Datamap.png "Mapping our data prior to db construction")
 
-This was quite helpful as we moved into the subsequent days. Particularly as Patrick and I built our migrations. 
+This was quite helpful as we moved into the subsequent days. Particularly as Patrick and I built our migrations. As we began to wrap this task, I started working on re-arranging our endpoints into routes and models. We did decided to do this as a group such that we could design our project for scalability. As we enter the homestretch, we will need to be working across a variety of files. If something breaks (which it will) we wanted to have thought as much about containment as we could. Thus we elected to execute a model/route architecture.
 
 
 
@@ -23,8 +23,10 @@ This was quite helpful as we moved into the subsequent days. Particularly as Pat
 ## Tasks Pulled
 ### Front End
  - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/15 "Front End PR One")
+ - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/17 "Front End PR Two")
 
 
 ### Back End
 
-- (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/9 "Back End PR One)
+- (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/3 "Back End PR One")
+- (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/9 "Back End PR Two")
