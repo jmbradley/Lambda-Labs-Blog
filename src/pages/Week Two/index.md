@@ -30,4 +30,3 @@ Our team came together in a tough time this week. I'm looking forward to working
 ### Back End
 
 - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/43 "Back End PR One")
-- ()
