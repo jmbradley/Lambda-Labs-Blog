@@ -15,6 +15,10 @@ We were able to get through this and continue on with the project.
 Our team came together in a tough time this week. I'm looking forward to working with them in the subsequent month.
 
 
+## Whiteboarding
+In an effort to better understand the process of technical interviews, we have begun a series of mock nterviews supported by another member of our cohort facilitating the interview. Here's a video: 
+- (https://vimeo.com/user92307089/review/303751412/1682d577f4 "Whiteboarding Week One")
+
 ## Tasks Pulled
 ### Front End
  - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/29 "Front End PR One")
@@ -30,3 +34,5 @@ Our team came together in a tough time this week. I'm looking forward to working
 ### Back End
 
 - (https://github.com/Lambda-School-Labs/Labs8-MealHelper/pull/43 "Back End PR One")
+
+
