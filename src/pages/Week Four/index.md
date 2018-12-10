@@ -1,6 +1,6 @@
 ---
 title: Week 3 - Lambda Labs
-date: "2018-12-8T23:46:37.121Z"
+date: "2018-12-08T23:46:37.121Z"
 ---
 ![Commits](../../assets/Projecttodate.png)
 
